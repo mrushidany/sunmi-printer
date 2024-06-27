@@ -11,7 +11,7 @@ import {
     LcdCommandEnum,
     PrinterStyleKeysEnum,
     PrinterStyleValuesEnum
-} from "@kduma-autoid/capacitor-sunmi-printer";
+} from '@kduma-autoid/capacitor-sunmi-printer';
 import {WebViewWatchDog} from "@kduma-autoid/capacitor-webview-watchdog";
 
 window.customElements.define(
